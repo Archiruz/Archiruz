@@ -1,5 +1,6 @@
 # Pring Cagak Radio
 
+![Archiruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Archiruz&show_icons=true&theme=tokyonight)
 
 <!--
 **Archiruz/Archiruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
