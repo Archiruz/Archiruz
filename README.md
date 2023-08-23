@@ -10,7 +10,7 @@ A future of innovation to be enshrined.
 <p align="left">
 <a href="https://github.com/archiruz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Archiruz&show_icons=true&theme=tokyonight&hide_rank=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archiruz&layout=compact&theme=tokyonight&hide=css,scss,blade"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archiruz&layout=compact&theme=tokyonight&hide=css,scss,blade,dockerfile,procfile"/>
   
 </a>
 </p>
