@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/archiruz?label=Follow&style=social)
 <img src="https://komarev.com/ghpvc/?username=archiruz&label=Profile%20views&color=0e75b6&style=flat" alt="archiruz" />
 
-Welcome to my GitHub profile! I’m a developer with a focus on data analytics and machine learning. I love working with modern ML frameworks and constantly learning new things to improve my skills.
+Welcome to my GitHub profile! I’m a developer with a focus on back-end frameworks, data analytics, and machine learning. I love working with modern ML and web frameworks and constantly learning new things to improve my skills.
 
 ## 🛠️ Technologies & Tools
 
