@@ -111,7 +111,7 @@ Welcome to my GitHub profile! I’m a developer with a focus on back-end framewo
 
 I'm always open to collaboration on exciting projects and discussing new ideas. Feel free to reach out!
 
-[Google Developer Student Club](https://gdsc.community.dev/u/mmbjk7)
+[Google Developer Student Club](https://gdg.community.dev/gdg-on-campus-universitas-negeri-malang-malang-indonesia/)
 
 <p align="left">
 <a href="https://github.com/archiruz">
