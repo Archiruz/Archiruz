@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Alvian Rahmadani Saputra 👋
-### Backend Developer • Machine Learning Enthusiast • GDG on Campus Lead
+### Web Fullstack • Machine Learning Enthusiast • Former GDG on Campus Lead
 
 [![GitHub followers](https://img.shields.io/github/followers/archiruz?label=Follow&style=for-the-badge&logo=github&color=24292e)](https://github.com/archiruz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alvian_Rahmadani-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alvian-rahmadani-saputra)
