@@ -17,8 +17,7 @@
 
 ### 📌 About Me
 
-- 💼 Focused on **Backend Architecture**, **RESTful APIs**, and **Data/ML Engineering**.
-- 🎓 Chapter Lead at **[Google Developer Groups on Campus: Universitas Negeri Malang](https://gdg.community.dev/gdg-on-campus-universitas-negeri-malang-malang-indonesia/)**.
+- 💼 Focused on **web Orchestration**, **Backend Architecture**, **RESTful APIs**, and **Data/ML Engineering**.
 - 🛠️ Actively exploring scalable web systems, RAG workflows, and DevOps practices.
 - 💬 Ask me about **Laravel, Python, and API Development**.
 
