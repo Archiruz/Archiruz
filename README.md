@@ -28,28 +28,28 @@
 **Languages**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,python,js,ts,cpp,html,css" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=php,python,js,ts,html,css" alt="Languages" />
   </a>
 </p>
 
 **Backend & Web Frameworks**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,bootstrap,tailwind" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=laravel,nodejs,nextjs,postman,tailwind,react,prisma" alt="Frameworks" />
   </a>
 </p>
 
 **AI, Machine Learning & Data**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,opencv" alt="AI & ML" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="AI & ML" />
   </a>
 </p>
 
 **Database, DevOps & Utilities**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,docker,linux,git,arduino" alt="DevOps & Tools" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux,git,arduino" alt="DevOps & Tools" />
   </a>
 </p>
 
