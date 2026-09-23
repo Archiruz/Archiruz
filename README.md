@@ -17,7 +17,7 @@
 
 ### 📌 About Me
 
-- 💼 Focused on **web Orchestration**, **Backend Architecture**, **RESTful APIs**, and **Data/ML Engineering**.
+- 💼 Focused on **Web Orchestration**, **Backend Architecture**, **RESTful APIs**, and **Data/ML Engineering**.
 - 🛠️ Actively exploring scalable web systems, RAG workflows, and DevOps practices.
 - 💬 Ask me about **Laravel, Python, and API Development**.
 
